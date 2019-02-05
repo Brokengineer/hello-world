@@ -1,2 +1,3 @@
 # hello-world
-opening guide
+
+Learning github might help with the rest of this crap
